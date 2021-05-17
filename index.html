@@ -10,14 +10,15 @@
 <body>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script>
-        $(window).on('load', () => {
-            const f = async () => {
-                let j = await fetch('data.json')
-                let k = await j.json()
-                return k;
-            }
-            console.log(await f());
-        })
+        async function f () {
+    let j = await fetch('data.json')
+    let k = await j.json()
+    return k;
+    }
+
+    function hello() {
+        f().then(data => console.log(JSON.stringify(data))).catch(err => console.error(err))
+    }
 
 
    
