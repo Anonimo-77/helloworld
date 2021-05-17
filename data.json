@@ -1,0 +1,830 @@
+{
+    "data": [
+        {
+            "Simbolo": "H",
+            "Elemento": "hidrógeno",
+            "Masa": 10.079,
+            "Electronegatividad": 2.1,
+            "Z": 1
+        },
+        {
+            "Simbolo": "He",
+            "Elemento": "helio",
+            "Masa": 40.026,
+            "Electronegatividad": 0,
+            "Z": 2
+        },
+        {
+            "Simbolo": "Li",
+            "Elemento": "litio",
+            "Masa": 6.941,
+            "Electronegatividad": 0.98,
+            "Z": 3
+        },
+        {
+            "Simbolo": "Be",
+            "Elemento": "berilio",
+            "Masa": 90.122,
+            "Electronegatividad": 1.57,
+            "Z": 4
+        },
+        {
+            "Simbolo": "B",
+            "Elemento": "boro",
+            "Masa": 10.811,
+            "Electronegatividad": 2.04,
+            "Z": 5
+        },
+        {
+            "Simbolo": "C",
+            "Elemento": "carbono",
+            "Masa": 12.011,
+            "Electronegatividad": 2.55,
+            "Z": 6
+        },
+        {
+            "Simbolo": "N",
+            "Elemento": "nitrógeno",
+            "Masa": 140.067,
+            "Electronegatividad": 3.04,
+            "Z": 7
+        },
+        {
+            "Simbolo": "O",
+            "Elemento": "oxígeno",
+            "Masa": 159.994,
+            "Electronegatividad": 3.44,
+            "Z": 8
+        },
+        {
+            "Simbolo": "F",
+            "Elemento": "flúor",
+            "Masa": 189.984,
+            "Electronegatividad": 3.98,
+            "Z": 9
+        },
+        {
+            "Simbolo": "Ne",
+            "Elemento": "neón",
+            "Masa": 201.797,
+            "Electronegatividad": 0,
+            "Z": 10
+        },
+        {
+            "Simbolo": "Na",
+            "Elemento": "sodio",
+            "Masa": 229.897,
+            "Electronegatividad": 0.93,
+            "Z": 11
+        },
+        {
+            "Simbolo": "Mg",
+            "Elemento": "magnesio",
+            "Masa": 24.305,
+            "Electronegatividad": 1.31,
+            "Z": 12
+        },
+        {
+            "Simbolo": "Al",
+            "Elemento": "aluminio",
+            "Masa": 269.815,
+            "Electronegatividad": 1.61,
+            "Z": 13
+        },
+        {
+            "Simbolo": "Si",
+            "Elemento": "silicio",
+            "Masa": 280.855,
+            "Electronegatividad": 1.90,
+            "Z": 14
+        },
+        {
+            "Simbolo": "P",
+            "Elemento": "fósforo",
+            "Masa": 309.738,
+            "Electronegatividad": 2.19,
+            "Z": 15
+        },
+        {
+            "Simbolo": "S",
+            "Elemento": "azufre",
+            "Masa": 32.06,
+            "Electronegatividad": 2.58,
+            "Z": 16
+        },
+        {
+            "Simbolo": "Cl",
+            "Elemento": "cloro",
+            "Masa": 35.453,
+            "Electronegatividad": 3.16,
+            "Z": 17
+        },
+        {
+            "Simbolo": "Ar",
+            "Elemento": "argón",
+            "Masa": 39.948,
+            "Electronegatividad": 0,
+            "Z": 18
+        },
+        {
+            "Simbolo": "K",
+            "Elemento": "potasio",
+            "Masa": 390.983,
+            "Electronegatividad": 0.82,
+            "Z": 19
+        },
+        {
+            "Simbolo": "Ca",
+            "Elemento": "calcio",
+            "Masa": 40.078,
+            "Electronegatividad": 1,
+            "Z": 20
+        },
+        {
+            "Simbolo": "Sc",
+            "Elemento": "escandio",
+            "Masa": 449.559,
+            "Electronegatividad": 1.36,
+            "Z": 21
+        },
+        {
+            "Simbolo": "Ti",
+            "Elemento": "titanio",
+            "Masa": 47.867,
+            "Electronegatividad": 1.54,
+            "Z": 22
+        },
+        {
+            "Simbolo": "Va",
+            "Elemento": "vanadio",
+            "Masa": 509.415,
+            "Electronegatividad": 1.63,
+            "Z": 23
+        },
+        {
+            "Simbolo": "Cr",
+            "Elemento": "Cromo",
+            "Masa": 519.961,
+            "Electronegatividad": 1.66,
+            "Z": 24
+        },
+        {
+            "Simbolo": "Mn",
+            "Elemento": "Manganeso",
+            "Masa": 54.938,
+            "Electronegatividad": 1.55,
+            "Z": 25
+        },
+        {
+            "Simbolo": "Fe",
+            "Elemento": "Hierro",
+            "Masa": 55.845,
+            "Electronegatividad": 1.83,
+            "Z": 26
+        },
+        {
+            "Simbolo": "Co",
+            "Elemento": "cobalto",
+            "Masa": 589.332,
+            "Electronegatividad": 1.88,
+            "Z": 27
+        },
+        {
+            "Simbolo": "Ni",
+            "Elemento": "níquel",
+            "Masa": 586.934,
+            "Electronegatividad": 1.91,
+            "Z": 28
+        },
+        {
+            "Simbolo": "Cu",
+            "Elemento": "cobre",
+            "Masa": 63.546,
+            "Electronegatividad": 1.9,
+            "Z": 29
+        },
+        {
+            "Simbolo": "Zn",
+            "Elemento": "zinc",
+            "Masa": 65.39,
+            "Electronegatividad": 1.65,
+            "Z": 30
+        },
+        {
+            "Simbolo": "Ga",
+            "Elemento": "galio",
+            "Masa": 69.723,
+            "Electronegatividad": 1.81,
+            "Z": 31
+        },
+        {
+            "Simbolo": "Ge",
+            "Elemento": "germanio",
+            "Masa": 72.64,
+            "Electronegatividad": 2.01,
+            "Z": 32
+        },
+        {
+            "Simbolo": "Ar",
+            "Elemento": "arsenico",
+            "Masa": 749.216,
+            "Electronegatividad": 2.18,
+            "Z": 33
+        },
+        {
+            "Simbolo": "Se",
+            "Elemento": "selenio",
+            "Masa": 78.96,
+            "Electronegatividad": 2.55,
+            "Z": 34
+        },
+        {
+            "Simbolo": "Br",
+            "Elemento": "bromo",
+            "Masa": 79.904,
+            "Electronegatividad": 2.96,
+            "Z": 35
+        },
+        {
+            "Simbolo": "Kr",
+            "Elemento": "kripton",
+            "Masa": 83.8,
+            "Electronegatividad": 3,
+            "Z": 36
+        },
+        {
+            "Simbolo": "Rb",
+            "Elemento": "rubidio",
+            "Masa": 854.678,
+            "Electronegatividad": 0.82,
+            "Z": 37
+        },
+        {
+            "Simbolo": "Sr",
+            "Elemento": "estroncio",
+            "Masa": 87.62,
+            "Electronegatividad": 0.95,
+            "Z": 38
+        },
+        {
+            "Simbolo": "Y",
+            "Elemento": "itrio",
+            "Masa": 889.059,
+            "Electronegatividad": 1.22,
+            "Z": 39
+        },
+        {
+            "Simbolo": "Zr",
+            "Elemento": "circonio",
+            "Masa": 91.224,
+            "Electronegatividad": 1.33,
+            "Z": 40
+        },
+        {
+            "Simbolo": "Nb",
+            "Elemento": "niobio",
+            "Masa": 929.064,
+            "Electronegatividad": 1.6,
+            "Z": 41
+        },
+        {
+            "Simbolo": "Mo",
+            "Elemento": "molibdeno",
+            "Masa": 95.94,
+            "Electronegatividad": 2.16,
+            "Z": 42
+        },
+        {
+            "Simbolo": "Tc",
+            "Elemento": "tecnecio",
+            "Masa": 98,
+            "Electronegatividad": 1.9,
+            "Z": 43
+        },
+        {
+            "Simbolo": "Ru",
+            "Elemento": "ruterio",
+            "Masa": 101.07,
+            "Electronegatividad": 2.2,
+            "Z": 44
+        },
+        {
+            "Simbolo": "rh",
+            "Elemento": "rodio",
+            "Masa": 1029.055,
+            "Electronegatividad": 2.28,
+            "Z": 45
+        },
+        {
+            "Simbolo": "pd",
+            "Elemento": "paladio",
+            "Masa": 106.42,
+            "Electronegatividad": 2.2,
+            "Z": 46
+        },
+        {
+            "Simbolo": "ag",
+            "Elemento": "plata",
+            "Masa": 107.8682,
+            "Electronegatividad": 1.93,
+            "Z": 47
+        },
+        {
+            "Simbolo": "cd",
+            "Elemento": "cadmio",
+            "Masa": 112.411,
+            "Electronegatividad": 1.69,
+            "Z": 48
+        },
+        {
+            "Simbolo": "in",
+            "Elemento": "indio",
+            "Masa": 114.818,
+            "Electronegatividad": 1.78,
+            "Z": 49
+        },
+        {
+            "Simbolo": "sn",
+            "Elemento": "estaño",
+            "Masa": 118.71,
+            "Electronegatividad": 1.96,
+            "Z": 50
+        },
+        {
+            "Simbolo": "sb",
+            "Elemento": "antimonio",
+            "Masa": 121.76,
+            "Electronegatividad": 2.05,
+            "Z": 51
+        },
+        {
+            "Simbolo": "te",
+            "Elemento": "telurio",
+            "Masa": 126.9045,
+            "Electronegatividad": 2.1,
+            "Z": 52
+        },
+        {
+            "Simbolo": "in",
+            "Elemento": "yodo",
+            "Masa": 127.6,
+            "Electronegatividad": 2.66,
+            "Z": 53
+        },
+        {
+            "Simbolo": "xe",
+            "Elemento": "xenón",
+            "Masa": 131.293,
+            "Electronegatividad": 2.6,
+            "Z": 54
+        },
+        {
+            "Simbolo": "cs",
+            "Elemento": "Cesio",
+            "Masa": 132.9055,
+            "Electronegatividad": 0.79,
+            "Z": 55
+        },
+        {
+            "Simbolo": "ba",
+            "Elemento": "Bario",
+            "Masa": 137.327,
+            "Electronegatividad": 0.89,
+            "Z": 56
+        },
+        {
+            "Simbolo": "la",
+            "Elemento": "Lantano",
+            "Masa": 138.9055,
+            "Electronegatividad": 1.1,
+            "Z": 57
+        },
+        {
+            "Simbolo": "ce",
+            "Elemento": "Cerio",
+            "Masa": 140.116,
+            "Electronegatividad": 1.12,
+            "Z": 58
+        },
+        {
+            "Simbolo": "pr",
+            "Elemento": "praseodimio",
+            "Masa": 140.9077,
+            "Electronegatividad": 1.13,
+            "Z": 59
+        },
+        {
+            "Simbolo": "nd",
+            "Elemento": "neodimio",
+            "Masa": 144.24,
+            "Electronegatividad": 1.14,
+            "Z": 60
+        },
+        {
+            "Simbolo": "pm",
+            "Elemento": "prometio",
+            "Masa": 145,
+            "Electronegatividad": 0,
+            "Z": 61
+        },
+        {
+            "Simbolo": "sm",
+            "Elemento": "samario",
+            "Masa": 150.36,
+            "Electronegatividad": 1.17,
+            "Z": 62
+        },
+        {
+            "Simbolo": "eu",
+            "Elemento": "europio",
+            "Masa": 151.964,
+            "Electronegatividad": 0,
+            "Z": 63
+        },
+        {
+            "Simbolo": "gd",
+            "Elemento": "gadolinio",
+            "Masa": 157.25,
+            "Electronegatividad": 1.2,
+            "Z": 64
+        },
+        {
+            "Simbolo": "tb",
+            "Elemento": "terbio",
+            "Masa": 158.9253,
+            "Electronegatividad": 0,
+            "Z": 65
+        },
+        {
+            "Simbolo": "dy",
+            "Elemento": "disprosio",
+            "Masa": 162.5,
+            "Electronegatividad": 1.22,
+            "Z": 66
+        },
+        {
+            "Simbolo": "ho",
+            "Elemento": "holmio",
+            "Masa": 164.9303,
+            "Electronegatividad": 1.23,
+            "Z": 67
+        },
+        {
+            "Simbolo": "er",
+            "Elemento": "erbio",
+            "Masa": 167.259,
+            "Electronegatividad": 1.24,
+            "Z": 68
+        },
+        {
+            "Simbolo": "tm",
+            "Elemento": "tulio",
+            "Masa": 168.9342,
+            "Electronegatividad": 1.25,
+            "Z": 69
+        },
+        {
+            "Simbolo": "yb",
+            "Elemento": "iterbio",
+            "Masa": 173.04,
+            "Electronegatividad": 0,
+            "Z": 70
+        },
+        {
+            "Simbolo": "lu",
+            "Elemento": "lutecio",
+            "Masa": 174.967,
+            "Electronegatividad": 1.27,
+            "Z": 71
+        },
+        {
+            "Simbolo": "hf",
+            "Elemento": "hafnio",
+            "Masa": 178.49,
+            "Electronegatividad": 1.3,
+            "Z": 72
+        },
+        {
+            "Simbolo": "ta",
+            "Elemento": "tántalo",
+            "Masa": 180.9479,
+            "Electronegatividad": 1.5,
+            "Z": 73
+        },
+        {
+            "Simbolo": "w",
+            "Elemento": "wolframio",
+            "Masa": 183.84,
+            "Electronegatividad": 2.36,
+            "Z": 74
+        },
+        {
+            "Simbolo": "re",
+            "Elemento": "renio",
+            "Masa": 186.207,
+            "Electronegatividad": 1.9,
+            "Z": 75
+        },
+        {
+            "Simbolo": "os",
+            "Elemento": "osmio",
+            "Masa": 190.23,
+            "Electronegatividad": 2.2,
+            "Z": 76
+        },
+        {
+            "Simbolo": "ir",
+            "Elemento": "iridio",
+            "Masa": 192.217,
+            "Electronegatividad": 2.2,
+            "Z": 77
+        },
+        {
+            "Simbolo": "pt",
+            "Elemento": "platino",
+            "Masa": 195.078,
+            "Electronegatividad": 2.28,
+            "Z": 78
+        },
+        {
+            "Simbolo": "au",
+            "Elemento": "oro",
+            "Masa": 196.9665,
+            "Electronegatividad": 2.54,
+            "Z": 79
+        },
+        {
+            "Simbolo": "hg",
+            "Elemento": "mercurio",
+            "Masa": 200.59,
+            "Electronegatividad": 2,
+            "Z": 80
+        },
+        {
+            "Simbolo": "tl",
+            "Elemento": "talio",
+            "Masa": 204.3833,
+            "Electronegatividad": 1.62,
+            "Z": 81
+        },
+        {
+            "Simbolo": "pb",
+            "Elemento": "plomo",
+            "Masa": 207.2,
+            "Electronegatividad": 2.33,
+            "Z": 82
+        },
+        {
+            "Simbolo": "bi",
+            "Elemento": "bismuto",
+            "Masa": 208.9804,
+            "Electronegatividad": 2.02,
+            "Z": 83
+        },
+        {
+            "Simbolo": "po",
+            "Elemento": "polonio",
+            "Masa": 209,
+            "Electronegatividad": 2,
+            "Z": 84
+        },
+        {
+            "Simbolo": "at",
+            "Elemento": "ástato",
+            "Masa": 210,
+            "Electronegatividad": 2.2,
+            "Z": 85
+        },
+        {
+            "Simbolo": "rn",
+            "Elemento": "radón",
+            "Masa": 222,
+            "Electronegatividad": 0,
+            "Z": 86
+        },
+        {
+            "Simbolo": "fr",
+            "Elemento": "francio",
+            "Masa": 223,
+            "Electronegatividad": 0.7,
+            "Z": 87
+        },
+        {
+            "Simbolo": "ra",
+            "Elemento": "radio",
+            "Masa": 226,
+            "Electronegatividad": 0.9,
+            "Z": 88
+        },
+        {
+            "Simbolo": "ac",
+            "Elemento": "actinio",
+            "Masa": 227,
+            "Electronegatividad": 1.1,
+            "Z": 89
+        },
+        {
+            "Simbolo": "th",
+            "Elemento": "torio",
+            "Masa": 231.0359,
+            "Electronegatividad": 1.3,
+            "Z": 90
+        },
+        {
+            "Simbolo": "pa",
+            "Elemento": "protactinio",
+            "Masa": 232.0381,
+            "Electronegatividad": 1.5,
+            "Z": 91
+        },
+        {
+            "Simbolo": "u",
+            "Elemento": "uranio",
+            "Masa": 237,
+            "Electronegatividad": 1.38,
+            "Z": 92
+        },
+        {
+            "Simbolo": "np",
+            "Elemento": "neptunio",
+            "Masa": 238.0289,
+            "Electronegatividad": 1.36,
+            "Z": 93
+        },
+        {
+            "Simbolo": "pu",
+            "Elemento": "plutonio",
+            "Masa": 243,
+            "Electronegatividad": 1.28,
+            "Z": 94
+        },
+        {
+            "Simbolo": "am",
+            "Elemento": "americio",
+            "Masa": 244,
+            "Electronegatividad": 1.3,
+            "Z": 95
+        },
+        {
+            "Simbolo": "cm",
+            "Elemento": "curio",
+            "Masa": 247,
+            "Electronegatividad": 1.3,
+            "Z": 96
+        },
+        {
+            "Simbolo": "bk",
+            "Elemento": "berkelio",
+            "Masa": 247,
+            "Electronegatividad": 1.3,
+            "Z": 97
+        },
+        {
+            "Simbolo": "cf",
+            "Elemento": "californio",
+            "Masa": 251,
+            "Electronegatividad": 1.3,
+            "Z": 98
+        },
+        {
+            "Simbolo": "es",
+            "Elemento": "einstenio",
+            "Masa": 252,
+            "Electronegatividad": 1.3,
+            "Z": 99
+        },
+        {
+            "Simbolo": "fm",
+            "Elemento": "fermio",
+            "Masa": 257,
+            "Electronegatividad": 1.3,
+            "Z": 100
+        },
+        {
+            "Simbolo": "md",
+            "Elemento": "mendelevio",
+            "Masa": 258,
+            "Electronegatividad": 1.3,
+            "Z": 101
+        },
+        {
+            "Simbolo": "no",
+            "Elemento": "nobelio",
+            "Masa": 259,
+            "Electronegatividad": 1.3,
+            "Z": 102
+        },
+        {
+            "Simbolo": "lf",
+            "Elemento": "lawrencio",
+            "Masa": 261,
+            "Electronegatividad": 0,
+            "Z": 103
+        },
+        {
+            "Simbolo": "rf",
+            "Elemento": "rutherfordio",
+            "Masa": 262,
+            "Electronegatividad": 0,
+            "Z": 104
+        },
+        {
+            "Simbolo": "db",
+            "Elemento": "dubnio",
+            "Masa": 262,
+            "Electronegatividad": 0,
+            "Z": 105
+        },
+        {
+            "Simbolo": "sg",
+            "Elemento": "seaborgio",
+            "Masa": 264,
+            "Electronegatividad": 0,
+            "Z": 106
+        },
+        {
+            "Simbolo": "bh",
+            "Elemento": "bohrio",
+            "Masa": 266,
+            "Electronegatividad": 0,
+            "Z": 107
+        },
+        {
+            "Simbolo": "hs",
+            "Elemento": "hasio",
+            "Masa": 268,
+            "Electronegatividad": 0,
+            "Z": 108
+        },
+        {
+            "Simbolo": "mt",
+            "Elemento": "meitnerio",
+            "Masa": 277,
+            "Electronegatividad": 0,
+            "Z": 109
+        },
+        {
+            "Simbolo": "ds",
+            "Elemento": "darmstatio",
+            "Masa": 0,
+            "Electronegatividad": 0,
+            "Z": 110
+        },
+        {
+            "Simbolo": "rg",
+            "Elemento": "roetgenio",
+            "Masa": 0,
+            "Electronegatividad": 0,
+            "Z": 111
+        },
+        {
+            "Simbolo": "cn",
+            "Elemento": "copernicio",
+            "Masa": 0,
+            "Electronegatividad": 0,
+            "Z": 112
+        },
+        {
+            "Simbolo": "nh",
+            "Elemento": "nihonio",
+            "Masa": 0,
+            "Electronegatividad": 0,
+            "Z": 113
+        },
+        {
+            "Simbolo": "fl",
+            "Elemento": "flevorio",
+            "Masa": 0,
+            "Electronegatividad": 0,
+            "Z": 114
+        },
+        {
+            "Simbolo": "mc",
+            "Elemento": "moscovio",
+            "Masa": 0,
+            "Electronegatividad": 0,
+            "Z": 115
+        },
+        {
+            "Simbolo": "lv",
+            "Elemento": "livermorio",
+            "Masa": 0,
+            "Electronegatividad": 0,
+            "Z": 116
+        },
+        {
+            "Simbolo": "ts",
+            "Elemento": "teneso",
+            "Masa": 0,
+            "Electronegatividad": 0,
+            "Z": 117
+        },
+        {
+            "Simbolo": "og",
+            "Elemento": "oganesón",
+            "Masa": 0,
+            "Electronegatividad": 0,
+            "Z": 118
+        }
+    ]
+}
